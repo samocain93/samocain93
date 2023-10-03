@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 <h4 align="center"> 🔭 I’m currently working on <strong>building modern, progressive web applications using the MERN stack</strong></h4>
 
-<h4 align="center"> 🌱 I’m currently learning and using <strong>React, Node.js, Express, and MongoDB with a desire to learn Python, Angular and Vue</strong></h4>
+<h4 align="center"> 🌱 I’m currently learning and using <strong>React, Next.js, Node.js, Express, and MongoDB with a desire to learn Python, Angular and Vue</strong></h4>
 
 <h4 align="center">🛠 My <a href=https://samocain93.github.io/portfolio target="_blank">Portfolio</h4>
 
