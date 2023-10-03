@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
-<h3 align="center">I am a passionate, junior full stack developer based in Austin, Texas. I am currently finishing my certificate from the UT Austin Coding Boot Camp. 
+<h3 align="center">I am a passionate, full stack developer based in Austin, Texas. I am a graduate of Florida State University with a B.S. in Finance, and recently earned my graduating certificate from the UT Austin Coding Boot Camp. 
   </h3>
   <h3 align="center">
   I am looking to leverage my experience in sales, hospitality, and management into this new career. As an avid learner, I am excited for this new opportunity in life, and believe I would make a great addition to any team.</h3>
