@@ -9,7 +9,7 @@
 
 <h4 align="center"> 🌱 I’m currently learning and using <strong>React, Next.js, Node.js, Express, and MongoDB with a desire to learn Python, Angular and Vue</strong></h4>
 
-<h4 align="center">🛠 My <a href=https://samocain93.github.io/portfolio target="_blank">Portfolio</h4>
+<h4 align="center">🛠 My <a href=https://samocain.dev/ target="_blank">Portfolio</h4>
 
 <h4 align="center">📫 Reach me at: <a href=mailto:samocain93@gmail.com>samocain93@gmail.com</h4>
 
